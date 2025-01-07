@@ -31,7 +31,7 @@ const TaskForm = ({ onAddTask }) => {
                 value={description}
                 onChange={(e) => setDescription(e.target.value)} required
             />
-            <button type="submit">Adicionar</button>
+            <button type="submit">+</button>
         </form>
         </div>
     );

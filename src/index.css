@@ -7,6 +7,16 @@
 body{
   min-height: 100vh;
   width: 100vw;
-  background: linear-gradient(180deg, #1e5799 0%, rgba(45, 127, 194, 0.77) 100%);
+  background: linear-gradient(180deg, #3e81cf 0%, rgba(45, 127, 194) 100%);
   font-family: "Kanit", sans-serif;
 }
+
+.app{
+  width: 90%;
+  background-color: #fff;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.6) 1.95px 1.95px 4px;
+}
+
